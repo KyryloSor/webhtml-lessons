@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Магазин</title>
+</head>
+<body>
+    <nav>
+        <a href="/main">Головна</a>
+    </nav>
+
+    <main>
+        <header>
+            <h1>Спортивний магазин</h1>
+        </header>
+
+            <h2>Футбольні м'ячи</h2>
+
+        <article>
+            <p>Спортивний магазин з 2015 року</p>
+        </article>
+
+            <p>Понад 1000 одиниць спортивного спорядження</p>
+
+         <aside>
+            <p>Доставка по всій Україні</p>
+         </aside>
+            
+    </main>
+
+    <ul>
+        <li>Adidas</li>
+        <li>Nike</li>
+        <li>New Balance</li>
+        <li>Puma</li>
+        <li>Asics</li>
+    </ul>
+
+    <footer>
+        <nav>
+            <a href="/about">Про нас</a>
+        </nav>
+        <nav>
+            <a href = "/contacts"> <p>Контакти:Олександр Валерійович +380631234567</p></a>
+        </nav>
+    
+    </footer>
+</body>
+</html>
